@@ -5,11 +5,8 @@ import {
   Check,
   ChevronDown,
   CircleAlert,
-  Clock3,
-  Link2Off,
   Menu,
   Scale,
-  ShieldAlert,
   Swords,
   X,
 } from "lucide-react";
